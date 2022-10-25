@@ -23,7 +23,7 @@ public class EX16 {
                 simb = 'O';
                 System.out.println("Turno do: "+simb);
             }
-
+            System.out.println("");
             System.out.println("     1    2    3  ");
             System.out.println(" 1-  " + n[0] + " | " + n[1] + " | " + n[2]);
             System.out.println(" 2-  " + n[3] + " | " + n[4] + " | " + n[5]);
